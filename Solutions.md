@@ -1005,5 +1005,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 1001. 
 1002. 
 1003. 16561580535729
-
+1004.
+1005. 826079755
 
